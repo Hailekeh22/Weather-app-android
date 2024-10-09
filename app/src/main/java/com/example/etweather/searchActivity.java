@@ -1,2 +1,4 @@
-package com.example.etweather;public class searchActivity {
+package com.example.etweather;
+
+public class searchActivity {
 }
