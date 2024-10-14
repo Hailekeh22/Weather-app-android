@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="headerColor">#FF5733</color>
-    <color name="darkPurple">#23082A</color>
+    <color name="headerColor">#D1BCFF</color>
+    <color name="darkBlue">#040F21</color>
 
 </resources>
