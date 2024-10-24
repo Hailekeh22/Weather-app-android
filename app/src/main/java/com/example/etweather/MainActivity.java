@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
         handler = new Handler();
+
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {

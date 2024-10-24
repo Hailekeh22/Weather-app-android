@@ -31,6 +31,7 @@ public class searchActivity extends AppCompatActivity {
 
         Button homeButton = findViewById(R.id.homeButton);
         Button historyButton = findViewById(R.id.historyButton);
+
         Button clearDataButton = findViewById(R.id.cleardata);
 
         homeButton.setOnClickListener(new View.OnClickListener() {
